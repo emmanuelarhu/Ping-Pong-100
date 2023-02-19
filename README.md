@@ -1,9 +1,9 @@
 
 <p><img align= "right" src="https://github.com/Ping-Pong-100/Ping-Pong-100/blob/main/heartbeat.gif" width="400" height="200" /></p>
 
-### Hi there 👋, Ping-Pong 
+### Hi all 👋,
 #### *NetOps*
-**CCNA (Cisco Certified Network Associate), CompTIA A+, Network+**
+**CCNA, CompTIA A+, Network+**
 
 Skills: **C, C++, Python, CCNA**
 
@@ -13,7 +13,7 @@ Skills: **C, C++, Python, CCNA**
 - 📫 How to reach me: mickeyscott706@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ping-Pong-100)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/emmanuelarhu)  
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
