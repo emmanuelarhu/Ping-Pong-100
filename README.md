@@ -19,19 +19,6 @@ Skills: **C, C++, Python, CCNA**
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ping-Pong)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ping-Pong)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ping-Pong&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ping-Pong)  
-
-![GitHub metrics](https://metrics.lecoq.io/Ping-Pong)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Ping-Pong)  
-
-![Profile views](https://gpvc.arturio.dev/Ping-Pong)  
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
